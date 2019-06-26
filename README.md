@@ -1,6 +1,7 @@
 # addFileList
 Put files into jsdom file inputs.
 Solves unresolved jsdom issue https://github.com/jsdom/jsdom/issues/1272
+Original repo is here: https://bitbucket.org/william_rusnack/addfilelist/src/master/
 
 ## Intended Use
 Add one file:
@@ -20,7 +21,7 @@ addFileList(input, [
 
 ## Install and Require
 ```sh
-npm install https://github.com/BebeSparkelSparkel/addFileList.git
+npm install https://github.com/reclamador/vue-tel-input.git
 ```
 ```javascript
 const { addFileList } = require('addFileList')
