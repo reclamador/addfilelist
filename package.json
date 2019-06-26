@@ -1,0 +1,25 @@
+{
+  "name": "addFileList",
+  "version": "1.0.0",
+  "description": "Put files into jsdom file inputs.",
+  "main": "addFileList.js",
+  "scripts": {
+    "test": "echo \"needs tests\"; false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BebeSparkelSparkel/addFileList.git"
+  },
+  "author": "William Rusnack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BebeSparkelSparkel/addFileList/issues"
+  },
+  "homepage": "https://github.com/BebeSparkelSparkel/addFileList#readme",
+  "dependencies": {
+    "jsdom": "^11.5.1"
+  },
+  "devDependencies": {
+    "mime-types": "^2.1.17"
+  }
+}
